@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[GameLayer animateBallsVertical]:GameLayer.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Ball animateBallAppear]:Ball.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "ballSprite_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BallGrid ballsFromPrintGrid:]:BallGrid.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "printGrid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLayer ccTouchBegan:withEvent:]:GameLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "theGrid">
+            </PersistentString>
+            <PersistentString
+               value = "heGrid">
+            </PersistentString>
+            <PersistentString
+               value = "theGrid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLayer objectAtX:atY:]:GameLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "gridColumns">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLayer checkFourNeighborsAtX:atY:]:GameLayer.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLayer removeObjectAtX:atY:]:GameLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "gridColumns">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLayer init]:GameLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "gridColumns">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
