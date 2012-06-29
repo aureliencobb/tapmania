@@ -40,7 +40,7 @@
     if (self = [super init])
     {
         
-        color_ = ballColor; //arc4random() % 5;
+        color_ = ballColor; 
         
         ballSprite_ = [self getBallSprite:color_];
         
@@ -62,6 +62,12 @@
 {
     CCSprite * ballSprite = nil;
     
+<<<<<<< master
+=======
+    // fetch sprites and animations from spritesheet here
+    
+    /*
+>>>>>>> local
     switch (color)
     {
         case eRed:
@@ -87,7 +93,7 @@
         default:
             CCLOG(@"Couldnt assign sprite. wrong enum case");
     }
-    
+    */
     
     return ballSprite;
     
